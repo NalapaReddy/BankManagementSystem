@@ -78,7 +78,7 @@ How to Run the Project
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/BankManagementSystem.git
+git clone https://github.com/NalapaReddy/BankManagementSystem/tree/main
 
 
 Open the project in your preferred Java IDE.
